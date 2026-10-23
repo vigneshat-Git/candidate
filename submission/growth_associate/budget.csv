@@ -1,0 +1,10 @@
+Item,Estimate_Min_INR,Estimate_Max_INR,Status,Verification
+Venue and basic furniture,0,10000,Unverified estimate,Campus in-kind option; confirm venue charge
+AV equipment and adapters,0,6000,Unverified estimate,Check inventory and get local quote
+Printing and signage,1500,1500,Unverified estimate,Get local print quote
+Certificates and small awards,3000,3000,Unverified estimate,Confirm award policy and procurement
+Logistics and check-in,2500,2500,Unverified estimate,Check campus inventory and safety rules
+Recording and editing,0,4000,Unverified estimate,Confirm in-house option and media approval
+Optional refreshments,0,5000,Unverified estimate,Confirm quote and dietary process
+Contingency,3200,3200,Planning reserve only,10% of maximum subtotal; coordinator approval required
+Maximum planning envelope,10200,35200,Not approved; not actual spend,Sum of min/max item estimates plus contingency at maximum
